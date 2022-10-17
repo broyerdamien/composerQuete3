@@ -1,0 +1,17 @@
+{
+    "name": "labro/composer-quete3",
+    "autoload": {
+        "psr-4": {
+            "Labro\\ComposerQuete3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "broyerdamien",
+            "email": "broyerdamien@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
